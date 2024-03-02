@@ -7908,6 +7908,12 @@ a.enq-side-btn-icone-1 {
     border-radius: 10%;
 }
 
+@media (max-width:767px) {
+    a.enq-side-btn-icone-1 {
+        top: 95px;
+    }
+}
+
 
 .newaddere {
     text-align: center;
