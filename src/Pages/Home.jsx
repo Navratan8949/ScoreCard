@@ -25,8 +25,8 @@ const Home = () => {
                 <section className="slider-area slider-bg">
                     <marquee style={{ fontSize: "20px", marginTop: "5px" }} behavior="" direction="right">
                         <div style={{ display: "flex", justifyContent: "space-around" }}>
-                            <div>100₹ ke recharge pe 300% bonus Offer </div>
-                            <div>100₹ ke recharge pe 300% bonus Offer </div></div>
+                            <div>15% welcome bonus on new ID</div>
+                            <div>15% welcome bonus on new ID</div></div>
                     </marquee>
 
                     {/* <a style={{ marginLeft: '10px' }} title='Contact Us' href="https://api.whatsapp.com/send?phone=917300042059&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank" rel="noopener noreferrer"> <FaWhatsapp style={{ color: '#25D366', fontSize: "33px" }} /></a> */}
