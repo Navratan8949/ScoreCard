@@ -21,17 +21,17 @@ const Home = () => {
     return (
         <div>
             <main>
-                <Link target="_blank" to="https://wa.me/917300042095" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to Get ID</Link>
+                <Link target="_blank" to="https://wa.me/917300042095" className="enq-side-btn-icone"><i className="fab fa-whatsapp" /> Click Here to New Customer</Link>
                 <section className="slider-area slider-bg">
                     <marquee style={{ fontSize: "20px", marginTop: "5px" }} behavior="" direction="right">
                         <div style={{ display: "flex", justifyContent: "space-around" }}>
-                            <div>15% welcome bonus on new ID</div>
-                            <div>15% welcome bonus on new ID</div></div>
+                            <div>15% welcome bonus for New Customer</div>
+                            <div>15% welcome bonus for New Customer</div></div>
                     </marquee>
 
                     {/* <a style={{ marginLeft: '10px' }} title='Contact Us' href="https://api.whatsapp.com/send?phone=917300042059&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" target="_blank" rel="noopener noreferrer"> <FaWhatsapp style={{ color: '#25D366', fontSize: "33px" }} /></a> */}
 
-                    <Link target="_blank" to="https://wa.me/917300042059" className="enq-side-btn-icone-1"><i className="fab fa-whatsapp" /> Click Here to Get ID</Link>
+                    <Link target="_blank" to="https://wa.me/917300042059" className="enq-side-btn-icone-1"><i className="fab fa-whatsapp" /> Click Here to New Customer</Link>
 
                     <div className="container">
                         <div className="row justify-content-center">
@@ -41,9 +41,9 @@ const Home = () => {
                                         <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD"><img src="./images/scorecard-logo.png" alt="Logo" width="200px" /></a>
                                     </div>
                                     <h6 className="wow fadeInDown" data-wow-delay=".2s">ScoreCard [10 साल का भरोसा] - Get your Trusted Fantasy Sport</h6>
-                                    <h2 className="tlt fix" data-in-effect="fadeInLeft">15% Welcome Bouns on New ID  <span><br />  5% Lifetime Bouns</span></h2>
+                                    <h2 className="tlt fix" data-in-effect="fadeInLeft">15% Welcome Bouns for New Customer  <span><br />  5% Lifetime Bouns</span></h2>
                                     <p style={{ marginBottom: "10px" }} className="wow fadeInUp" data-wow-delay="2s">India's no. 1 Daily online Fantasy Sport games promoter. Create your Account within 2 minutes! Join Most Trusted, Secure &amp; Fastest Fantasy Sport of India.</p>
-                                    <a style={{ marginBottom: "15px" }} target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="btn wow fadeInUp" data-wow-delay="2.2s">Whatsapp Now For Create Id</a>
+                                    <a style={{ marginBottom: "15px" }} target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD" className="btn wow fadeInUp" data-wow-delay="2.2s">Whatsapp Now For New Customer</a>
                                 </div>
                             </div>
                         </div>
@@ -61,14 +61,14 @@ const Home = () => {
                                         </div>
                                         <a target="_blank" href="https://api.whatsapp.com/send?phone=917300042095&text=%20I%20want%20Online%20Cricket%20ID%20with%2010%25%20Extra%20bonus%20Source%3A-%20MMC%2C%20AD">
                                             <div className="uc-game-price">
-                                                <h5 style={{ color: 'blue' }}>Get Your ID NOW</h5>
+                                                <h5 style={{ color: 'blue' }}>Get Your New Customer</h5>
                                             </div>
                                         </a>
                                     </div>
                                     <p>Get in touch with Saffron for any Queries, Emergencies, Feedback, or Complaints. We are here to help you 24*7 with our services on WhatsApp.</p>
                                     <p>Welcome to Saffron Exch, we offer you a genuinely unique fantasy sports experience. Besides, We have a global network and provide the best industry experience with a single click.</p>
                                     <p>Saffron Exch is a responsible fantasy sports promoter. We deal in all kinds of fantasy sports games. We have helped 50000+ players to find the best fantasy sports online.</p>
-                                    <p>Our Company Works In A Very Transparent Way. Get Your Demo ID Now</p>
+                                    <p>Our Company Works In A Very Transparent Way. Get Your Demo Customer Now</p>
                                     <div className="game-single-title mt-30 mb-30">
                                         <h4 style={{ color: "blue" }}>Why Choose Us</h4>
                                     </div>

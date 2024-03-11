@@ -16,7 +16,7 @@ const Header = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-6 d-none d-lg-block">
                                 <div className="header-top-offer">
-                                    <p>Get Trusted Online ID Here</p>
+                                    <p>Get Trusted Online Customer Here</p>
                                 </div>
                             </div>
                             <div className="col-lg-6">
